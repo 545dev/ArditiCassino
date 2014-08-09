@@ -755,7 +755,7 @@
             <li><span class="fa fa-mobile"></span>  Ziva: <a href="callto:3489017886"><b>348 9017886</b></a></li>
             <li><span class="fa fa-mobile"></span>  FreeBird: <a href="callto:3480308856"><b>348 0308856</b></a></li>
             <li><span class=""></span> FB 1: <a href="https://www.facebook.com/gruppoarditicassino.parati"><b>Gruppo Arditi Cassino Parati</b></a></li>
-            <li><span class="ì'"></span> FB 2: <a href="https://www.facebook.com/pages/Gruppo-Arditi-Cassino-SoftAir-Team/145148956203"><b>Gruppo Arditi Cassino SoftAir</b></a></li>
+            <li><span class=""></span> FB 2: <a href="https://www.facebook.com/pages/Gruppo-Arditi-Cassino-SoftAir-Team/145148956203"><b>Gruppo Arditi Cassino SoftAir</b></a></li>
          </ul>
          <ul class="address social">
             <li>
