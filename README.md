@@ -4,4 +4,5 @@ ArditiCassino
 GruppoArditiCassino Repository
 
 TODO:
-Update and fix gallery
+
+- Update and fix gallery
